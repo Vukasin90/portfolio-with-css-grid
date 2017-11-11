@@ -59,10 +59,6 @@ nav a {
     transform: translateX(0);
   }
 
-  .container-all {
-    transform: translateX(80%);
-  }
-
   .hamburger {
     display: none;
   }
@@ -72,11 +68,8 @@ nav a {
   }
 
   .menu-button {
-    transform: translateX(-70%);
+    transform: translateX(678%);
   }
 }
 
-.container-all {
-  transition: transform ease-out 250ms;
-}
 
